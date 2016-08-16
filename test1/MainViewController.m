@@ -6,13 +6,13 @@
 //  Copyright © 2016年 青云. All rights reserved.
 //
 
-#import "HotViewController.h"
+#import "MainViewController.h"
 
-@interface HotViewController ()
+@interface MainViewController ()
 
 @end
 
-@implementation HotViewController
+@implementation MainViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
