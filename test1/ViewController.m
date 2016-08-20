@@ -21,7 +21,7 @@
     NSLog(@"打印    ");
     NSLog(@"打印语句");
 
-    NSLog(@"在developer   分支");
+    NSLog(@"在developer分支");
     NSLog(@"在此分支添加代码1");
     NSLog(@"在此分支添加代码2");
 
